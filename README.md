@@ -1,5 +1,7 @@
 # Startup instructions: 
-To run, clone the repo, cd into the folder, and run process_data.py in your terminal. it will takes a few minutes, but should result in all snana files being generated in a new folder (snana_virgo_data).
+To run, clone the repo, cd into the folder, and run process_data.py in your terminal. 
+It will takes a minute, but should result in all snana files being generated in a new folder (snana_virgo_data).
+Failure messages for individual parsers are ok, but keep an eye out for "WARNING: Could not parse file {file_name} with any available parser.", UNKNOWN bands, or unmapped bands (besides limits).
 
 
 # File info: 
