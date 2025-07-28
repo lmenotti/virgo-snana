@@ -1,0 +1,21 @@
+Date(UT) Mag Band IAUC Author Note
+# June 19 N/A N/A IAUC4802 A.Filippenko "No detection"
+# June 24.4 N/A IAUC4812 R.Evans "No detection to mag 15.5"
+# June 28.82 12.2 mpv IAUC4802 G.Kimeridze "Later reported as 13.21, probably disregard"
+July 4 12.5 V IAUC4802 A.Filippenko "Does not mention mag band, assuming V"
+July 5.89 13.0 R IAUC4802 M.Turatto,E.Cappellaro
+July 5.89 13.5 B IAUC4802 M.Turatto,E.Cappellaro
+July 6.96 12.5 V IAUC4808 N.Panagia,F.Macchetto
+July 7.21 12.0 V IAUC4809 A.Hale
+July 8.84 12.5 V IAUC4808 N.Panagia,F.Macchetto
+July 9.14 12.2 V IAUC4809 J.Griese
+July 9.14 12.2 V IAUC4809 C.Scovil
+July 10.10 12.1 V IAUC4809 P.Sventek
+July 11.12 12.5 V IAUC4824 J.Bryan
+July 14.49 12.5 V IAUC4824 T.Kato
+July 15.14 12.3 V IAUC4824 R.Bunge
+July 29.12 12.8 V IAUC4838 R.Bunge
+July 29.85 12.9 V IAUC4846 A.Boattini
+Aug  2.10 13.2 V IAUC4838 R.Bunge
+Aug  8.09 14.1 V IAUC4838 R.Bunge
+Aug  20.12 14.6 V IAUC4846 J.Bryan

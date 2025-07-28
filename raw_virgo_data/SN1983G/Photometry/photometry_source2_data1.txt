@@ -1,0 +1,63 @@
+Julian Date	Gregorian Day	Magnitude	Id Reference	Reference Text      Band
+2445434.66	Apr 10, 1983 3h50m	13.34	200	C.J.Peterson, IAU Circ. No.3814, 1983   U
+2445435.64	Apr 11, 1983 3h21m	13.43	200	C.J.Peterson, IAU Circ. No.3814, 1983   U   
+2445438.74	Apr 14, 1983 5h45m	13.48	199	R.J.Buta et al., PASP, 97, 229, 1985   U
+2445440.84	Apr 16, 1983 8h9m	13.79	199	R.J.Buta et al., PASP, 97, 229, 1985   U
+2445441.77	Apr 17, 1983 6h28m	14.12	200	C.J.Peterson, IAU Circ. No.3814, 1983   U
+2445442.78	Apr 18, 1983 6h43m	14.15	200	C.J.Peterson, IAU Circ. No.3814, 1983   U
+2445443.77	Apr 19, 1983 6h28m	14.17	200	C.J.Peterson, IAU Circ. No.3814, 1983   U
+2445464.68	May 10, 1983 4h19m	16.21	199	R.J.Buta et al., PASP, 97, 229, 1985   U
+2445465.65	May 11, 1983 3h35m	16.31	199	R.J.Buta et al., PASP, 97, 229, 1985   U
+2445466.65	May 12, 1983 3h35m	16.34	199	R.J.Buta et al., PASP, 97, 229, 1985   U
+2445495.6	Jun 10, 1983 2h24m	16.89	199	R.J.Buta et al., PASP, 97, 229, 1985   U
+2445434.4	Apr 9, 1983 21h35m	13.05	1582	D.Yu.Tsvetkov, Astron.Zhur., 62, 365, 1985      B
+2445434.66	Apr 10, 1983 3h50m	13.03	200	C.J.Peterson, IAU Circ. No.3814, 1983      B
+2445435.64	Apr 11, 1983 3h21m	13.08	200	C.J.Peterson, IAU Circ. No.3814, 1983      B
+2445438.74	Apr 14, 1983 5h45m	13.27	199	R.J.Buta et al., PASP, 97, 229, 1985      B
+2445439.34	Apr 14, 1983 20h9m	13.45	202	S.Benetti,E.Cappellaro,M.Turatto, A.A., v.247,n.2,p.410,1991      B
+2445440.84	Apr 16, 1983 8h9m	13.48	199	R.J.Buta et al., PASP, 97, 229, 1985      B
+2445441.77	Apr 17, 1983 6h28m	13.86	200	C.J.Peterson, IAU Circ. No.3814, 1983      B
+2445442.78	Apr 18, 1983 6h43m	13.86	200	C.J.Peterson, IAU Circ. No.3814, 1983      B
+2445443.77	Apr 19, 1983 6h28m	13.95	200	C.J.Peterson, IAU Circ. No.3814, 1983      B
+2445453.33	Apr 28, 1983 19h55m	14.68	1582	D.Yu.Tsvetkov, Astron.Zhur., 62, 365, 1985      B
+2445459.4	May 4, 1983 21h35m	15.45	202	S.Benetti,E.Cappellaro,M.Turatto, A.A., v.247,n.2,p.410,1991      B
+2445460.28	May 5, 1983 18h43m	15.55	1582	D.Yu.Tsvetkov, Astron.Zhur., 62, 365, 1985      B
+2445464.35	May 9, 1983 20h24m	15.76	1582	D.Yu.Tsvetkov, Astron.Zhur., 62, 365, 1985      B
+2445464.41	May 9, 1983 21h50m	15.66	1582	D.Yu.Tsvetkov, Astron.Zhur., 62, 365, 1985      B
+2445464.68	May 10, 1983 4h19m	15.83	199	R.J.Buta et al., PASP, 97, 229, 1985      B
+2445465.42	May 10, 1983 22h4m	15.87	1582	D.Yu.Tsvetkov, Astron.Zhur., 62, 365, 1985      B
+2445465.65	May 11, 1983 3h35m	15.87	199	R.J.Buta et al., PASP, 97, 229, 1985      B
+2445466.65	May 12, 1983 3h35m	15.94	199	R.J.Buta et al., PASP, 97, 229, 1985      B
+2445469.35	May 14, 1983 20h24m	15.86	1582	D.Yu.Tsvetkov, Astron.Zhur., 62, 365, 1985      B
+2445469.36	May 14, 1983 20h38m	15.98	1582	D.Yu.Tsvetkov, Astron.Zhur., 62, 365, 1985      B
+2445471.42	May 16, 1983 22h19m	16.15	202	S.Benetti,E.Cappellaro,M.Turatto, A.A., v.247,n.2,p.410,1991      B
+2445488.4	Jun 2, 1983 21h35m	16.15	202	S.Benetti,E.Cappellaro,M.Turatto, A.A., v.247,n.2,p.410,1991      B
+2445490.37	Jun 4, 1983 21h21m	16.35	202	S.Benetti,E.Cappellaro,M.Turatto, A.A., v.247,n.2,p.410,1991      B
+2445491.31	Jun 5, 1983 19h26m	16.28	1582	D.Yu.Tsvetkov, Astron.Zhur., 62, 365, 1985      B
+2445495.6	Jun 10, 1983 2h24m	16.26	199	R.J.Buta et al., PASP, 97, 229, 1985      B
+2445498.32	Jun 12, 1983 19h40m	16.54	1582	D.Yu.Tsvetkov, Astron.Zhur., 62, 365, 1985      B
+2445434.66	Apr 10, 1983 3h50m	12.77	200	C.J.Peterson, IAU Circ. No.3814, 1983       V
+2445435.64	Apr 11, 1983 3h21m	12.8	200	C.J.Peterson, IAU Circ. No.3814, 1983       V
+2445438.74	Apr 14, 1983 5h45m	12.83	199	R.J.Buta et al., PASP, 97, 229, 1985       V
+2445439.36	Apr 14, 1983 20h9m	13.10	202	S.Benetti,E.Cappellaro,M.Turatto, A.A., v.247,n.2,p.410,1991       V
+2445440.84	Apr 16, 1983 8h9m	12.95	199	R.J.Buta et al., PASP, 97, 229, 1985       V
+2445441.77	Apr 17, 1983 6h28m	13.23	200	C.J.Peterson, IAU Circ. No.3814, 1983       V
+2445442.78	Apr 18, 1983 6h43m	13.18	200	C.J.Peterson, IAU Circ. No.3814, 1983       V
+2445443.77	Apr 19, 1983 6h28m	13.25	200	C.J.Peterson, IAU Circ. No.3814, 1983       V
+2445453.33	Apr 28, 1983 19h55m	13.54	1582	D.Yu.Tsvetkov, Astron.Zhur., 62, 365, 1985       V
+2445459.42	May 4, 1983 21h35m	14.10	202	S.Benetti,E.Cappellaro,M.Turatto, A.A., v.247,n.2,p.410,1991       V
+2445461.39	May 6, 1983 21h21m	14.01	1582	D.Yu.Tsvetkov, Astron.Zhur., 62, 365, 1985       V
+2445463.36	May 8, 1983 20h38m	14.23	1582	D.Yu.Tsvetkov, Astron.Zhur., 62, 365, 1985       V
+2445464.68	May 10, 1983 4h19m	14.36	199	R.J.Buta et al., PASP, 97, 229, 1985       V
+2445465.42	May 10, 1983 22h4m	14.34	1582	D.Yu.Tsvetkov, Astron.Zhur., 62, 365, 1985       V
+2445465.65	May 11, 1983 3h35m	14.43	199	R.J.Buta et al., PASP, 97, 229, 1985       V
+2445466.65	May 12, 1983 3h35m	14.5	199	R.J.Buta et al., PASP, 97, 229, 1985       V
+2445469.36	May 14, 1983 20h38m	14.5	1582	D.Yu.Tsvetkov, Astron.Zhur., 62, 365, 1985       V
+2445470.34	May 15, 1983 20h9m	14.55	1582	D.Yu.Tsvetkov, Astron.Zhur., 62, 365, 1985       V
+2445471.45	May 16, 1983 22h19m	14.70	202	S.Benetti,E.Cappellaro,M.Turatto, A.A., v.247,n.2,p.410,1991       V
+2445490.40	Jun 4, 1983 21h21m	15.05	202	S.Benetti,E.Cappellaro,M.Turatto, A.A., v.247,n.2,p.410,1991       V
+2445495.6	Jun 10, 1983 2h24m	15.14	199	R.J.Buta et al., PASP, 97, 229, 1985       V
+2445438.74	Apr 14, 1983 5h45m	12.93	199	R.J.Buta et al., PASP, 97, 229, 1985        R
+2445440.84	Apr 16, 1983 8h9m	13.01	199	R.J.Buta et al., PASP, 97, 229, 1985        R
+2445438.74	Apr 14, 1983 5h45m	12.67	199	R.J.Buta et al., PASP, 97, 229, 1985        I
+2445440.84	Apr 16, 1983 8h9m	12.65	199	R.J.Buta et al., PASP, 97, 229, 1985        I

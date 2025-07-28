@@ -1,0 +1,12 @@
+Julian Date	Gregorian Day	Magnitude	Magerr      Indmag and Band     Notes
+2444402.3    Jun 11, 1980           16.25   NaN     B   Tsvetkov (1983)   Prediscovery
+2444403.5    Jun 13, 1980           14.0    NaN     m_v   Kristian & Rosker (IAUC)   
+2444403.5    Jun 13, 1980           14.4    0.3     m_pg   Smith (1981 from Rosker film)   
+2444432.48   July 11.984, 1980      14.0    NaN     m_pg   Maza & Gonzalez (IAUC)   
+2444432.5    July 12, 1980          14.0    NaN     m_v   Kristian & Rosker (IAUC)   
+2444435.7    July 15.2, 1980        14.9    0.3     m_pg   Smith (1981 from Kennicutt/van den Bergh)   
+2444436.7    July 16.2, 1980        14.9    0.3     m_pg   Smith (1981 from Kennicutt/van den Bergh)   
+2444456.49   August, 04.99, 1980    16.0    NaN     m_pg   Maza & Gonzalez (IAUC)
+# Bmax ~ 12.5 around JD 2444412) from Smith and Gonzales
+# 2444412.0    Jun 21, 1980           12.5    null    B_max   Tsvetkov (1983)   Derived peak (not direct obs.)
+# 2444395.6    Jun 5.1, 1980          >20.0   null    m_pg   Maza (via Smith 1981)   Below plate limit
