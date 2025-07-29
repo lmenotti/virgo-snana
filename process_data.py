@@ -69,7 +69,9 @@ def process_supernova(sn_name, sn_info):
     if not photometry_tables:
         print(f"--- No data processed for {sn_name}, skipping SNANA file creation. ---\n")
         return
-
+    for table in photometry_tables:
+        if 'reference' in table.colnames:
+            table['reference'] = table['reference'].astype(str)
     full_table = vstack(photometry_tables, join_type='outer')
     df = full_table.to_pandas().drop_duplicates(subset=['time', 'mag'], keep='first')
     

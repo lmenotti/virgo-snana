@@ -31,7 +31,7 @@ SUPERNOVAE = {
         "mag_system": "Vega"
     },
     "SN1971G": {
-        "files": ["photometry_source1_data1.fit"],
+        "files": ["photometry_source1_data1.fit","photometry_source1_data2.csv"],
         "mag_system": "Vega"
     },
     "SN1980I": {
@@ -43,11 +43,11 @@ SUPERNOVAE = {
         "mag_system": "Vega"
     },
     "SN1983G": {
-        "files": ["photometry_source1_dat1.fit","photometry_source2_data1.csv"],
+        "files": ["photometry_source1_data1.fit","photometry_source1_data2.csv","photometry_source2_data1.csv"],
         "mag_system": "Vega"
     },
     "SN1984A": {
-        "files": ["photometry_source1_data1.fit","photometry_source2_data1.txt"],
+        "files": ["photometry_source1_data1.fit","photometry_source1_data2.csv","photometry_source2_data1.txt"],
         "mag_system": "Vega"
     },
     "SN1985B": {
