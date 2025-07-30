@@ -3,3 +3,6 @@ __pycache__/
 
 # Ignore output data
 snana_virgo_data/
+
+# Ignore plot output
+plots/
